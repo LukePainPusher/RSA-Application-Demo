@@ -8,7 +8,7 @@
 ## Usage
 
 This application has been developed to demonstrate my knowledge and understanding of the RSA encryption algorithm.
- By using my knowledge and skills in the Python programming language/with RSA encryption, I have been able to develop an application using the 'pycryptodome' Python library.
+ By using my knowledge and skills in the Python programming language/with RSA encryption, I have been able to develop an application using the 'pycryptodome' Python library with the assistance of the ChatGPT AI feature to further improve the code.
  This application is not designed to be used in production, but as a tool to further develop your understanding of the algorithm and its importance in maintaining data integrity within an untrusted network.
 
 ## Installation
