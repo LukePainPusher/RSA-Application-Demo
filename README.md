@@ -9,7 +9,7 @@
 
 This application has been developed to demonstrate my knowledge and understanding of the RSA encryption algorithm.
  By using my knowledge and skills in the Python programming language/RSA encryption, I have been able to develop an application using the 'pycryptodome' Python library.
-This application is not designed to be used in production, but as a tool to further develop your understanding of the algorithm and its importance in maintaining data integrity within an untrusted network.
+ This application is not designed to be used in production, but as a tool to further develop your understanding of the algorithm and its importance in maintaining data integrity within an untrusted network.
 
 ## Installation
 
