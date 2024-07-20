@@ -4,7 +4,6 @@
 
 from Crypto.PublicKey import RSA
 from Crypto.Cipher import PKCS1_OAEP
-from Crypto.Random import get_random_bytes
 
 key_size = None
 private_key = None
@@ -78,4 +77,3 @@ def rsa_encryption_application_menu():
             print('Invalid input, please try again!')
 
 rsa_encryption_application_menu()
-        
