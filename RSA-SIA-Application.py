@@ -7,7 +7,7 @@
 from Crypto.PublicKey import RSA
 from Crypto.Cipher import PKCS1_OAEP
 
-# Create the following variables which will be called in the below functions as required:
+# Create the following variables which will be called in the below functions as required.  We will store the value of 'None' in each variable so we can create them without storing any data in them:
 
 key_size = None
 private_key = None
