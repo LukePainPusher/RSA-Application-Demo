@@ -20,6 +20,9 @@ git clone https://github.com/LukePainPusher/RSA-Application-Demo.git
 # Navigate into the directory
 cd \path\to\python\application
 
+# Install the latest, stable version of Python if it is not yet already installed on your local desktop:
+# https://www.python.org/downloads/
+
 # Install dependencies
 py -m pip install pycryptodome
 
